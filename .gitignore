@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 원작 게임 데이터는 공개 저장소에 올리지 않아요 (이 PC에만 보관)
+vanilla/
